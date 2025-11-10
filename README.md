@@ -1,6 +1,34 @@
-StreamVibe (Simple Realtime Streaming Server)
+# 🌐 **StreamVibe (Simple Realtime Streaming Server)**  
 
-StreamVibe/1.0 is a lightweight, high-performance, real-time streaming server designed for modern media delivery. It supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181, and runs smoothly on Linux/macOS across multiple architectures including x86_64, ARMv7, AArch64, Apple M-series, RISC-V, LoongArch, and MIPS.
+### ⚡ **StreamVibe/1.0 — Ultra-Fast, Lightweight & Real-Time Streaming Server**
 
-StreamVibe provides built-in support for popular codecs such as H.264, H.265, AV1, VP9, AAC, Opus, and G.711, delivering efficient, low-latency streaming for a wide variety of applications. It focuses on simplicity, reliability, and essential real-time media features ideal for both development and production environments.
+**StreamVibe** is a **high-efficiency**, **low-latency**, and **developer-friendly** real-time media server designed for modern streaming workflows.  
+It supports a wide range of streaming protocols, platforms, architectures, and codecs—making it ideal for both production and experimental use.
+
+---
+
+##  **Key Features**
+
+###  **Multi-Protocol Streaming**
+**RTMP · WebRTC · HLS · HTTP-FLV · SRT · MPEG-DASH · GB28181**
+
+###  **Cross-Platform Support**
+**Linux · macOS**
+
+###  **Multi-Architecture Compatibility**
+**x86_64 · ARMv7 · AArch64 · Apple M-Series · RISC-V · LoongArch · MIPS**
+
+###  **Codec Support**
+**H.264 · H.265 · AV1 · VP9 · AAC · Opus · G.711**
+
+---
+
+##  **Why StreamVibe?**
+
+- **Simple & Clean Architecture** – easy to deploy, configure, and extend  
+- **Optimized for Realtime Media** – ultra-low latency workflows  
+- **Modern Codec Support** – for flexible and efficient streaming  
+- **Reliable & Lightweight** – ideal for live apps, media platforms, and prototypes  
+
+---
 
